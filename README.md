@@ -36,14 +36,16 @@
 ## 📝 Installation & Setup Instructions
 
 1. **Clone or download** the iToolForYou project and navigate into its directory:
-Set up your Python environment:
    ```
    cd path/to/iToolForYou
+   ```
 
+Set up your Python environment:
+   ```
    sudo apt update
    sudo apt install python3 python3-venv python3-pip
    python3 -m venv .env
-
+   ```
 Activate the virtual environment:
    ```
    source .env/bin/activate
