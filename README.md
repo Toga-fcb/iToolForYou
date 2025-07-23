@@ -21,6 +21,7 @@
 > **Important:**  
 > When you launch iToolForYou for the first time, or after deleting utilities like `libimobiledevice-utils`, `idevicerestore`, and others, you **must run option 7** (Install Dependencies) before using other features.  
 > This ensures your system has all necessary tools installed.
+> Backup your data before using. I am not responsible for any data loss/damage.
 
 ### Required system packages (installed via option 7):
 
