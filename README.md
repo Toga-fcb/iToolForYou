@@ -62,31 +62,7 @@ Launch the app:
     This will install necessary Linux packages required for full functionality.
 
     After dependencies are installed, you can use all features of iToolForYou smoothly.
-
-📁 Typical Project Structure
-
-iToolForY/
-├── .env/                      
-├── assets/                   
-|   └──functions/
-│      └──operations/
-|      |   ├── connection.py
-|      |   ├── e.py
-|      |   ├── fi.py
-|      |   ├── main_operation.py
-|      |   └── poweroff_reboot.py
-│      ├── clear_console.py
-│      ├── dependencies.py
-│      ├── info.py
-│      ├── iOS_installer.py
-│      ├── updater.py
-|      ├── iOS/    
-|      |   └── firmware_storage
-|      ├── updates/
-├── app.py         
-├── pip_req.txt    
-└── README.md      
-
+    
 
 💡 Usage Tips
 
