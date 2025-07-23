@@ -36,32 +36,30 @@
 ## 📝 Installation & Setup Instructions
 
 1. **Clone or download** the iToolForYou project and navigate into its directory:
-
-   ```bash
+Set up your Python environment:
+   ```
    cd path/to/iToolForYou
 
-    Set up your Python environment:
-
-sudo apt update
-sudo apt install python3 python3-venv python3-pip
-python3 -m venv .env
+   sudo apt update
+   sudo apt install python3 python3-venv python3-pip
+   python3 -m venv .env
 
 Activate the virtual environment:
-
-source .env/bin/activate
-
+   ```
+   source .env/bin/activate
+   ```
 Install Python dependencies:
-
-pip3 install -r pip_req.txt
-
+   ```
+   pip3 install -r pip_req.txt
+   ```
 Launch the app:
+   ```
+   python3 app.py
+   ```
+   Run option 7 ("Install Dependencies") immediately inside the app.
+   This will install necessary Linux packages required for full functionality.
 
-    python3 app.py
-
-    Run option 7 ("Install Dependencies") immediately inside the app.
-    This will install necessary Linux packages required for full functionality.
-
-    After dependencies are installed, you can use all features of iToolForYou smoothly.
+   After dependencies are installed, you can use all features of iToolForYou smoothly.
     
 
 💡 Usage Tips
