@@ -23,7 +23,7 @@
 > This ensures your system has all necessary tools installed.
 > Backup your data before using. I am not responsible for any data loss/damage.
 
-### Required system packages (installed via option 7):
+### Required system packages (installed via option 7(only for unix systems)):
 
 - `libimobiledevice-utils`  
 - `ifuse`  
