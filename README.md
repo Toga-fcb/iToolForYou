@@ -1,6 +1,6 @@
-# 🛠️ iToolForYou – iOS Firmware Utility for Linux
+# 🛠️ iToolForYou – iOS Firmware Utility
 
-**iToolForYou** is a powerful terminal-based utility for Linux that helps you manage, restore, and update your iPhone firmware easily — right from the command line.
+**iToolForYou** is a powerful terminal-based utility that helps you manage, restore, and update your iPhone firmware easily — right from the command line.
 
 ---
 
